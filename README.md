@@ -5,8 +5,8 @@ Given a parent directory with subdirectories, this tool will extract all files f
 ### Usage
 
 Download this repo using git clone or GitHub. Navigate to the download folder in PowerShell and run the following command:
-```.\unpack -path [parent_path]```
+```.\unpack.ps1 -path [parent_path]```
 
-Alternatively, you can specify the path during runtime by simply running `.\unpack`.
+Alternatively, you can specify the path during runtime by simply running `.\unpack.ps1`.
 
 Note that you may have to adjust your execution policy to run this tool. See [here](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.5).
