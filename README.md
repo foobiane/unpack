@@ -4,7 +4,7 @@ Given a parent directory with subdirectories, this tool will extract all files f
 
 ### Usage
 
-Download this repo using git clone or GitHub. Navigate to the download folder in Command Prompt and run the following command:
+Download this repo using git clone or GitHub. Navigate to the download folder in PowerShell and run the following command:
 ```.\unpack -path [parent_path]```
 
 Alternatively, you can specify the path during runtime by simply running `.\unpack`.
